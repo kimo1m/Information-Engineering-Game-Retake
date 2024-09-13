@@ -21,7 +21,7 @@ Setup
 Clone the Repository
 bash
 Copy code
-git clone https://github.com/yourusername/yourrepository.git
+git clone [https://github.com/kimo1m/Information-Engineering-Game-Retake.git]
 cd yourrepository
 Install SFML
 
@@ -66,6 +66,6 @@ Contributing
 Feel free to contribute to the project by submitting issues or pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
 Contact
-If you have any questions or need further assistance, you can reach out to [Your Name] at [Your Email Address].
+If you have any questions or need further assistance, you can reach out to [Kareem Mohamed] at [kareem.mohamed@student.put.poznan.pl].
 
 Feel free to adjust any sections as needed, such as updating file paths, build instructions, or contact information.
